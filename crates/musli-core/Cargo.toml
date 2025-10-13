@@ -43,4 +43,4 @@ garde = { version = "0.22.0", optional = true, default-features = false }
 musli-macros = { version = "=0.1.4", path = "../musli-macros" }
 
 [dev-dependencies]
-musli = { version = "=0.0.149", path = "../musli", features = ["json"] }
+musli = { version = "=0.0.150", path = "../musli", features = ["json"] }
